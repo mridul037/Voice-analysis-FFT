@@ -1,4 +1,4 @@
-# Voice Analyser (scaffold)
+# Voice Analyser 
 
 Realtime **WebSocket** stream of **FFT** magnitudes from a **FastAPI** backend (NumPy), rendered in the browser with **WebGL2**.
 
